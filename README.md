@@ -7,6 +7,6 @@
 
 2 Общий Google Disk - https://drive.google.com/drive/folders/12WRDNHuHjH0ftQ3EtpvB67fgNGQldTA2
 
-3 Сайт проекта - 
+3 Сайт проекта - http://lend.std-1357.ist.mospolytech.ru/
 
 4 Сайт - визитка - https://b24-wtbpie.bitrix24.site/
